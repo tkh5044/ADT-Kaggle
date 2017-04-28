@@ -1,5 +1,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Kaggle Competition - Starter 
 
+## Presentation Slides
+
+[Link to the presentation](https://docs.google.com/presentation/d/1FsD4PrEi0470NluHETaQLtXJ_DHGKCtfXpzeT4Zjtug/edit?usp=sharing)
+
 ## Introduction
 
 Welcome to your first week of work at the Center for Disease Control. Time to get to work!
